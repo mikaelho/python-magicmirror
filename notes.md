@@ -10,6 +10,8 @@ Installs:
 - (tenacity, monotonic)
 - forecastio # https://github.com/ZeevG/python-forecast.io
 - pytz
+- icalendar
+- oauth2client
 
 Weather icons:
 
